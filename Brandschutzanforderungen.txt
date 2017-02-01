@@ -1,0 +1,24 @@
+Brandschutzanforderungen:
+Bitte auswählen
+d
+ds
+vds
+rs
+fh
+fh-rs
+hfh
+hfh-rs
+fb
+fb-rs
+
+Bedeutungen:
+d - dicht schließend
+ds - dicht und selbstschließen
+dvds - vollwandig, dicht und selbstschließend
+rs - rauchdicht und selbstschließend
+fh - feuerhemmend, dicht und selbstschließend
+fh-rs - feuerhemmend, rauchdicht und selbstschließend
+hfh - hochfeuerhemmend, dicht und selbstschließend
+hfh-rs - hochfeuerhemmend, rauchdicht und selbstschließend
+fb - feuerbeständig, dicht und selbstschließend
+fb-rs - feuerbeständig, rauchdicht und selbstschließend

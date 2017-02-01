@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>Beispiel_Brandschutz.dll</Assembly>
+    <ClientId>28f330fd-ef1d-453c-bbe0-c351e6b4e9c2</ClientId>
+    <FullClassName>Beispiel_Brandschutz.Ribbon</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
